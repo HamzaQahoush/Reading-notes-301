@@ -8,7 +8,7 @@ quickly and consistently, across all major
 browsers and without any fallback code needed.
 
 We can: 
-• SELECT ELEMENTS : access  elements using jQuery's like `$(‘p)`
+• SELECT ELEMENTS : access  elements using jQuery's like `$('p')`
 
 • PERFORM TASKS : update the DOM tree , animate elements , loop through set of element 
 • HANDLE EVENTS :  like event listeners
