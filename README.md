@@ -7,5 +7,9 @@ Code 301 - Intermediate Software Development
 | Topic      | Link |
 | ---------- | ----------- |
 |   Read: 01 - SMACSS and Responsive Web Design|[Link](https://hamzaqahoush.github.io/Reading-notes-301/Read01)|
+|   Read: 02 - jQuery, Events, and The DOM|[Link](https://hamzaqahoush.github.io/Reading-notes-301/Read%2002)|
+
+
+
 
 
