@@ -1,12 +1,12 @@
-What is CSS Grid : 
+### What is CSS Grid : 
 
 CSS Grid is a 2 dimensional layout system that can
 handle both columns and rows. 
 
 
-Properties for the Parent : (Grid Container)
+### Properties for the Parent : (Grid Container)
 
-• display
+1. display
 Defines the element as a grid container and establishes a new grid formatting context for its contents.
 
 Values:
@@ -15,8 +15,8 @@ inline-grid – generates an inline-level grid
 
 ![](https://i.ibb.co/G04YjtT/grid2.png)
 
-• grid-template-columns
-• grid-template-rows
+2. grid-template-columns
+3. grid-template-rows
 Defines the columns and rows of the grid with a space-separated list of values. The values represent the track size, and the space between them represents the grid line.
 
 Values:
