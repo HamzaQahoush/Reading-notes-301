@@ -26,5 +26,5 @@ The main idea behind the flex layout is to give the container the ability to alt
 2.main-start | main-end – The flex items are placed within the container starting from main-start and going to main-end.<br> <br>
 3.main size – A flex item’s width or height<br> <br>
 4.cross axis – The axis perpendicular to the main axis <br> <br>
-5.ross-start | cross-end – Flex lines are filled with items and placed into the container starting on the cross-start side of the flex container and going toward the cross-end side.<br> <br>
+5.Cross-start | cross-end – Flex lines are filled with items and placed into the container starting on the cross-start side of the flex container and going toward the cross-end side.<br> <br>
 6.cross size – The width or height of a flex item.
