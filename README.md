@@ -9,6 +9,7 @@ Code 301 - Intermediate Software Development
 |   Read: 01 - SMACSS and Responsive Web Design|[Link](https://hamzaqahoush.github.io/Reading-notes-301/Read01)|
 |   Read: 02 - jQuery, Events, and The DOM|[Link](https://hamzaqahoush.github.io/Reading-notes-301/Read%2002)|
 |   Read: 03 - mustache.js & Flex Box|[Link](https://hamzaqahoush.github.io/Reading-notes-301/Read:%2003)|
+|   Read: 04 - CSS GRID|[Link](https://hamzaqahoush.github.io/Reading-notes-301/Read04)|
 
 
 
