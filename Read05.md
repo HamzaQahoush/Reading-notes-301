@@ -1,7 +1,7 @@
-### What is  Heroku
+###What is  Heroku
 Heroku is a cloud platform as a service. That means you do not have to worry about infrastructure; you just focus on your application.
 
- ### features of Heroku:
+ ###features of Heroku:
 
 • Instant Deployment with Git push - build of your application is performed by Heroku using your build scripts
 
