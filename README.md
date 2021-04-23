@@ -10,6 +10,8 @@ Code 301 - Intermediate Software Development
 |   Read: 02 - jQuery, Events, and The DOM|[Link](https://hamzaqahoush.github.io/Reading-notes-301/Read%2002)|
 |   Read: 03 - mustache.js & Flex Box|[Link](https://hamzaqahoush.github.io/Reading-notes-301/Read03)|
 |   Read: 04 - CSS GRID|[Link](https://hamzaqahoush.github.io/Reading-notes-301/Read04)|
+|   Read: 05 - Heroku|[Link](https://hamzaqahoush.github.io/Reading-notes-301/Read05)|
+|   Read: 06 - Node |[Link](https://hamzaqahoush.github.io/Reading-notes-301/Read06)|
 
 
 
