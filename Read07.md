@@ -21,9 +21,20 @@ they spent un told millions of dollars measuring nearly every aspect of its empl
 
 
 #### depends on Google study that what makes teams successful:
- ![](https://newageleadership.b-cdn.net/wp-content/uploads/2020/01/What-makes-teams-successful.png
+ ![](https://newageleadership.b-cdn.net/wp-content/uploads/2020/01/What-makes-teams-successful.png)
  
  
  
  ### What is REST ?
-REST is an abbreviation for Representational State Transfer.
+REST is an abbreviation for Representational State Transfer.it is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other.
+![](https://www.datamounts.com/wp-content/uploads/2020/01/What-the-difference-between-REST-API-and-RESTful-API.png)
+
+REST features: 
+
+• Separation of Client and Server.
+
+• Stateless : (that the server does not need to know anything about what state the client is in and vice versa)
+
+• Communication between Client and Server.
+
+• Making Requests (HTTP)
