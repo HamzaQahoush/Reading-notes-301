@@ -1,6 +1,7 @@
 ### What is SQL?
 
 SQL (pronounced "ess-que-el") stands for Structured Query Language. SQL is used to communicate with a database. it is the standard language for relational database management systems.
+
 SQL statements are used to perform tasks such as update data on a database, or retrieve data from a database
 The standard SQL commands such as "Select", "Insert", "Update", "Delete", "Create", and "Drop" can be used to accomplish almost everything that one needs to do with a database.
 
