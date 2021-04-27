@@ -27,6 +27,8 @@ Impure Functional Languages − These types of functional languages support the 
 ### Refactoring
 Refactoring is a process to change the code to make it more 'good' without changing the functionality. 
 
+![](https://teamsthatinnovate.com/wp-content/uploads/2011/08/refactoring.jpg)
+
 ### Why refactoring?
 
 The reason why we use refactoring is like this :
