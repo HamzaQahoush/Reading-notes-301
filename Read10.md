@@ -26,5 +26,10 @@ the easiest and maybe the most common way its to simply console.log() the variab
 
 #### Tools to avoid runtime errors :
 • quokka to evaluate your code as you type
+
 • eslint to make sure your style guide is consistency and it will grab you an error or two along the way and
+
 • type script
+
+#### Conclusion
+Being able to read error messages and practising debugging is one of  biggest weapons has a developer, we need to do it frequently and with enough time we  will notice a great decrease in the time you spend on each error that you find along the way. 
