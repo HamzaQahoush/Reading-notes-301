@@ -1,4 +1,4 @@
-### Whats is EJS 
+### Whats is EJS  (Embedded JavaScript templates) ?
 
 EJS is a template system.  we define HTML pages in the EJS syntax and we specify where various data will go in the page. Then, 
 our app combines data with the template and "renders" a complete HTML page where EJS takes our data and inserts it into 
