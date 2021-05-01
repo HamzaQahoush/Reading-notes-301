@@ -19,6 +19,7 @@ EJS is compatible with Express for back-end use as it hooks into the View engine
 `<%- Outputs the unescaped value into the template`
 
 ### Example
+
 `<% if (message) { %>
   <h2><%= message.name %></h2>
 <% } %>`
