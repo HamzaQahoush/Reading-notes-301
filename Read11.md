@@ -7,7 +7,7 @@ and we want EJS to generate the table of data according in our display rules. It
 dynamically generate HTML 
 based on data.
 
-EJS is compatible with Express for back-end use as it hooks into the View engine architecture that Express provides and lets you render web pages to the
+EJS is compatible with Express for back-end use as it hooks into the View engine architecture that Express provides and lets you render web pages to the  the client with `res.render()` in Express.
 
 
 ### Basic Syntax(Tags):
