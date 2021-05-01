@@ -21,5 +21,7 @@ EJS is compatible with Express for back-end use as it hooks into the View engine
 ### Example
 
 `<% if (message) { %>`
+
   `<h2><%= message.name %></h2>`
+  
 `<% } %>`
