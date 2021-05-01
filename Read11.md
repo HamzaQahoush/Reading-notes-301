@@ -10,7 +10,7 @@ based on data.
 EJS is compatible with Express for back-end use as it hooks into the View engine architecture that Express provides and lets you render web pages to the
 
 
-Basic Syntax(Tags):
+### Basic Syntax(Tags):
 
 `<% 'Scriptlet' tag, for control-flow, no output`
 
@@ -18,3 +18,7 @@ Basic Syntax(Tags):
 
 `<%- Outputs the unescaped value into the template`
 
+### Example
+`<% if (message) { %>
+  <h2><%= message.name %></h2>
+<% } %>`
