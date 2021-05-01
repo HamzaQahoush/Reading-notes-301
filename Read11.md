@@ -12,11 +12,13 @@ EJS is compatible with Express for back-end use as it hooks into the View engine
 
 ### Basic Syntax(Tags):
 
-`<% 'Scriptlet' tag, for control-flow, no output`
+`<%` 'Scriptlet' tag, for control-flow, no output
 
-`<%= Outputs the value into the template (HTML escaped)`
+`<%=` Outputs the value into the template (HTML escaped)
 
-`<%- Outputs the unescaped value into the template`
+`<%-` Outputs the unescaped value into the template
+
+ `<%- include(‘’)-%>` tag to include HTML from other files, in our app, we have the HTML templates at /views/template folder.
 
 ### Example
 
