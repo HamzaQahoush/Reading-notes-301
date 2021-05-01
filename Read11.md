@@ -29,5 +29,5 @@ EJS is compatible with Express for back-end use as it hooks into the View engine
 `<% } %>`
 
 
-### File structure :
+### File structure (example):
 ![](https://i.ibb.co/8cV2nnf/file-structure.png)
