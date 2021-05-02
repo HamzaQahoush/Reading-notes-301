@@ -9,4 +9,8 @@ Because partials are still templates, we are going to include them in the views 
 ![](https://i.ibb.co/VqvS91w/partilas.png )
 
 Linking Partials in Templates
+
 `<% include templateName %>`
+for example :
+
+`<%- include("partials/header.ejs") %>`
