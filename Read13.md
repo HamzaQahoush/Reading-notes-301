@@ -3,6 +3,8 @@ when a client (usually a web browser)
 sends a request to a server (most of the time a web server ), using the HTTP protocol. 
 The server answers the request using the same protocol.
 
+![](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data/client-server.png)
+
 
 The `<form>` element defines how the data will be sent. All of its attributes are designed
 to let us configure the request to be sent when a user hits a submit button. The two most important attributes are `action` and `method.`
