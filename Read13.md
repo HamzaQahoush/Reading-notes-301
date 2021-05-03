@@ -25,10 +25,10 @@ for a response that takes into account the data provided in the body of the HTTP
 
 ### Viewing HTTP requests :
 
-Open the developer tools.
-Select "Network"
-Select "All"
-Select "foo.com" in the "Name" tab
-Select "Headers"
+1.Open the developer tools.\
+2.Select "Network"\
+3.Select "All"\
+4.Select "foo.com" in the "Name" tab\
+5. "Headers"
 
 ![](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data/network-monitor.png)
