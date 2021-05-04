@@ -9,7 +9,7 @@ There are three main reasons to normalize a database:
 • the second is to minimize or avoid data modification issues,\
 •  the third is to simplify queries. 
 
- *Duplicated information presents two problems:
+ *Duplicated information presents two problems:*
 
 -It increases storage and decreases performance.\
 -It becomes more difficult to maintain data changes.
