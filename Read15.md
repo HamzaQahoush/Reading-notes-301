@@ -14,6 +14,9 @@ Diversity efforts are most successful when they’re driven by a commitment from
 Here are five themes that have emerged from those conversations:
 
 • Diverse teams are smarter and more creative.
+
 • Diverse companies perform better.
+
 • Companies are losing out on great talent.
+
 • Diverse companies can better serve a diverse user base.
